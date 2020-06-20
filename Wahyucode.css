@@ -1,0 +1,97 @@
+
+
+.profil-wrapper {
+  width: : 100%;
+  font-family: "Poppins";
+  background-image: url(https://i.ibb.co/vchMWQf/background-profil.png);
+  text-align: center;
+  background-size: cover;
+  height: 700px;
+  position: relative;
+  margin-top: 20px;
+}
+
+.sambutan {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #ff800e;
+}
+
+.anggotatim p {
+  font-weight: bold;
+  color: #ff800e;
+  font-size: 20px;
+}
+
+
+.anggota1 {
+  float: left;
+  position: relative;
+}
+
+#wahyu {
+  margin-left: 240px;
+  margin-right: 220px;
+}
+
+#wulan {
+margin-right: 230px;
+}
+
+.anggota2 {
+float:left;
+position: relative;
+margin-top: 30px;
+}
+
+#yani {
+  margin-left: 45px;
+}
+
+#yuhri {
+  margin-left: 205px;
+}
+
+#nisa {
+  margin-left: 200px;
+}
+
+.anggota1 img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+.anggota2 img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+
+#wahyu:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#wulan:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#yani:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#yuhri:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+#nisa:hover img {
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+  cursor: pointer;
+}
