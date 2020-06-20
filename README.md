@@ -1,1 +1,0 @@
-# fird.github.io
